@@ -495,7 +495,50 @@ nav {
   margin:0 auto;
   display:block;
 }
-
 .card img {
   max-width: 96px;
+}
+.card-icon {
+  width: 100%;
+  margin: .5em auto;
+}
+.service-card {
+  text-align: center;
+  font-size: 1.2em;
+  text-transform: capitalize;
+}
+.service-card img{
+  width: 96px;
+  margin: 0 auto;
+}
+.contact-icon {
+  width: 2em;
+  display: inline-block;
+  margin: 0 1em;
+}
+.contact-item p {
+  display: inline-block;
+}
+
+.sucursales {
+  list-style: none;
+  font-size: 1.4em;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+}
+.subtitle {
+  margin: .5em auto;
+  text-transform: uppercase;
+}
+.subtitle:after{
+  content: '';
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  height: 2px;
+  background-color: #f1543f;
+}
+.sucursales li {
+  color: #f1543f;
 }
