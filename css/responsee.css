@@ -534,7 +534,7 @@ nav {
 .subtitle:after{
   content: '';
   display: block;
-  margin: 0 auto;
+  margin: .5em auto;
   width: 70%;
   height: 2px;
   background-color: #f1543f;
