@@ -542,3 +542,24 @@ nav {
 .sucursales li {
   color: #f1543f;
 }
+.cta {
+  margin: 0 20%;
+  text-align: center;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, .4);
+  border-radius: .2em;
+  width: 60%;
+  padding: 1rem 2rem;
+  display: inline-block;
+}
+.cta h4 {
+  font-weight: 700;
+}
+.cta a {
+  color: #2196F3;
+  font-size: 1.6em;
+}
+.icon {
+  color: #2196F3;
+  font-size: 1em;
+  margin-right: .5em;
+}
