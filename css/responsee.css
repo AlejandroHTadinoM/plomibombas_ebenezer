@@ -365,7 +365,6 @@ nav {
   margin-right:0.625em;
   max-width:100%;
   text-align:right;
-  vertical-align:middle;
 }
 .nav-text:after {
   content:"\f008";
@@ -541,6 +540,7 @@ nav {
 }
 .sucursales li {
   color: #f1543f;
+  margin: 1em auto;
 }
 .cta {
   margin: 0 20%;
